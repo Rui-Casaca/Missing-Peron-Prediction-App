@@ -1,0 +1,7 @@
+[2026-06-09T22:43:13.740Z] [INFO] === DEBUG LOGGER INICIADO ===
+[2026-06-09T22:43:13.740Z] [INFO] Timestamp: 2026-06-09T22:43:13.740Z
+[2026-06-09T22:43:13.741Z] [INFO] Arquivo de log: C:\Users\rm-casaca\Projects\Sistema_Pessoas_Desaparecidas-main\backend\debug.log
+[2026-06-09T22:43:13.747Z] [INFO] Router registoCasosOficial montado em /api
+[2026-06-09T22:43:13.749Z] [INFO] Router db montado em /api/db
+[2026-06-09T22:43:13.749Z] [INFO] Router sync montado em /api/sync
+[2026-06-09T22:43:13.750Z] [INFO] Router auth montado em /api/auth

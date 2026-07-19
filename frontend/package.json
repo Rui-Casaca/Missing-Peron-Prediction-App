@@ -1,0 +1,54 @@
+{
+  "name": "gnr-sistema-pessoas-desaparecidas",
+  "version": "1.0.0",
+  "description": "Sistema SARIA para registo e análise de pessoas desaparecidas com IA",
+  "author": "Rui Casaca",
+  "main": "src/index.js",
+  "homepage": ".",
+  "dependencies": {
+    "@geoman-io/leaflet-geoman-free": "^2.19.3",
+    "docx": "^8.2.0",
+    "leaflet": "^1.9.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "set \"HOST=0.0.0.0\" ; set \"PORT=4001\" ; react-scripts start",
+    "build": "react-scripts build",
+    "typecheck": "tsc --noEmit",
+    "preview": "npm run build && wrangler dev",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:4000",
+  "devDependencies": {
+    "@types/jest": "^27.5.2",
+    "@types/leaflet": "^1.9.21",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "typescript": "^4.9.5",
+    "wrangler": "^4.105.0"
+  }
+}

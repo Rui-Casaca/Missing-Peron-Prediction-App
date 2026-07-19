@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "displayName": "Administrador",
+    "role": "admin",
+    "passwordHash": "$2b$10$fMD5Zyh6wBPuZwHZ.MqHQ.3C53N/EfM0ydXTuwKYGgjy8ZtMZv9mu",
+    "createdAt": "2026-06-09T21:50:00.968Z"
+  },
+  {
+    "id": 2,
+    "username": "demo",
+    "displayName": "Utilizador de Demonstração",
+    "role": "admin",
+    "passwordHash": "$2b$10$jZgPW3F44e1sonerpvl/5embolAqeKs3RatyMF8DhmGLP5k/BAU0a",
+    "createdAt": "2026-07-17T13:54:44.332Z"
+  }
+]

@@ -1,0 +1,1458 @@
+{
+  "Europarque - Santa Maria da Feira": {
+    "lat": 40.9326869,
+    "lon": -8.5759728,
+    "display_name": "Europarque, Via Estruturante Espargo - Paços de Brandão, Roligo, Santa Maria da Feira, Travanca, Sanfins e Espargo, Santa Maria da Feira, Aveiro, 4520-108, Portugal"
+  },
+  "Rio Meão": {
+    "lat": 40.9581668,
+    "lon": -8.5826133,
+    "display_name": "Rio Meão, Santa Maria da Feira, Aveiro, Portugal"
+  },
+  "Quinta das Canas, Coimbra": {
+    "lat": 40.191616,
+    "lon": -8.4259536,
+    "display_name": "Quinta das Canas, Lages, Santa Clara e Castelo Viegas, Coimbra, 3040-194, Portugal"
+  },
+  "Q": {
+    "lat": -23.299332,
+    "lon": -48.054657,
+    "display_name": "Quadra, Região Imediata de Tatuí, Região Geográfica Intermediária de Sorocaba, São Paulo, Região Sudeste, Brasil"
+  },
+  "Qu": {
+    "lat": 30.9673488,
+    "lon": 107.006232,
+    "display_name": "渠县, 达州市, 四川省, 中国"
+  },
+  "Quinta ": {
+    "lat": 41.2976334,
+    "lon": -7.8554018,
+    "display_name": "Quintã, Pena, Quintã e Vila Cova, Vila Real, Portugal"
+  },
+  "Quinta": {
+    "lat": 41.2976334,
+    "lon": -7.8554018,
+    "display_name": "Quintã, Pena, Quintã e Vila Cova, Vila Real, Portugal"
+  },
+  "Quin": {
+    "lat": 52.8190491,
+    "lon": -8.8670162,
+    "display_name": "Quin, Killaloe Municipal District, County Clare, Munster, Éire / Ireland"
+  },
+  "Quint": {
+    "lat": 46.5109139,
+    "lon": 8.711538,
+    "display_name": "Quinto, Circolo di Quinto, Distretto di Leventina, Ticino, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  "Qui": {
+    "lat": 6.55239,
+    "lon": -10.43252,
+    "display_name": "Qui, Todee, Montserrado County, Liberia"
+  },
+  "Quinta das": {
+    "lat": 43.2895175,
+    "lon": -7.0286131,
+    "display_name": "Quintá, Santa Eulalia de Oscos, Asturias / Asturies, 33776, España"
+  },
+  "Quinta da": {
+    "lat": 42.2006021,
+    "lon": -8.0561559,
+    "display_name": "Quinta, Grixó, Ramirás, Terra da Celanova, Ourense, Galicia, 32811, España"
+  },
+  "Quinta d": {
+    "lat": -33.7005523,
+    "lon": -65.4264651,
+    "display_name": "Quinta, Avenida Jorge Newbery, APTS I, Municipio de Villa Mercedes, General Pedernera, San Luis, 5730, Argentina"
+  },
+  "Quinta das ": {
+    "lat": 43.2895175,
+    "lon": -7.0286131,
+    "display_name": "Quintá, Santa Eulalia de Oscos, Asturias / Asturies, 33776, España"
+  },
+  "r": {
+    "lat": -22.9110137,
+    "lon": -43.2093727,
+    "display_name": "Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, Brasil"
+  },
+  "ru": {
+    "lat": 64.6863136,
+    "lon": 97.7453061,
+    "display_name": "Россия"
+  },
+  "rua": {
+    "lat": -28.8166236,
+    "lon": 24.991639,
+    "display_name": "South Africa"
+  },
+  "m, santa maria da feira": {
+    "lat": 40.943422,
+    "lon": -8.5374667,
+    "display_name": "Estaleiro da Cãmara  Municipal de Santa Maria da Feira, Zona Industrial da Corujeira (Cavaco), Giesteira, São João de Ver, Santa Maria da Feira, Aveiro, Portugal"
+  },
+  "mo, santa maria da feira": {
+    "lat": 40.9927362,
+    "lon": -8.5726551,
+    "display_name": "MO, Avenida Albertina Ferreira Amorim, Mozelos, Santa Maria da Feira, Aveiro, 4535-201, Portugal"
+  },
+  "mozelos, santa maria da feira": {
+    "lat": 40.9977498,
+    "lon": -8.5607476,
+    "display_name": "Mozelos, Santa Maria da Feira, Aveiro, Portugal"
+  },
+  "santa maria da feira": {
+    "lat": 40.9254179,
+    "lon": -8.5426688,
+    "display_name": "Santa Maria da Feira, Aveiro, Portugal"
+  },
+  "a": {
+    "lat": -25.1076701,
+    "lon": -64.3494964,
+    "display_name": "Salta, Argentina"
+  },
+  "av": {
+    "lat": 40.9965446,
+    "lon": 15.140569,
+    "display_name": "Avellino, Campania, Italia"
+  },
+  "avenid": {
+    "lat": 23.082724,
+    "lon": -82.4194023,
+    "display_name": "Avenid 53A, Pogolotti, Pogolotti – Belén – Finlay, Marianao, La Habana, 11500, Cuba"
+  },
+  "ave": {
+    "lat": 48.5957686,
+    "lon": 9.73881,
+    "display_name": "Ave Maria, 1, Ave-Maria-Weg, Deggingen, Vereinbarte Verwaltungsgemeinschaft der Gemeinde Deggingen, Landkreis Göppingen, Baden-Württemberg, 73326, Deutschland"
+  },
+  "aveni": {
+    "lat": 56.5153868,
+    "lon": 23.3523662,
+    "display_name": "Aveni, Kroņauce, Tērvetes pagasts, Dobeles novads, LV-3730, Latvija"
+  },
+  "aven": {
+    "lat": 5.1869284,
+    "lon": 6.134764,
+    "display_name": "Aven, Patani, Delta, Nigeria"
+  },
+  "avenida": {
+    "lat": 38.7190194,
+    "lon": -9.1448139,
+    "display_name": "Avenida, Avenida da Liberdade, São José, Santo António, Madalena, Lisboa, 1269-050, Portugal"
+  },
+  "mozelos, s": {
+    "lat": 40.9968,
+    "lon": -8.5430019,
+    "display_name": "Rua São Jorge, Mozelos, Santa Maria da Feira, Aveiro, 4536-909, Portugal"
+  },
+  "mozelos, sa": {
+    "lat": 40.9869618,
+    "lon": -8.5870883,
+    "display_name": "Rua Comendador Sá Couto, São Paio de Oleiros, Santa Maria da Feira, Aveiro, 4535-544, Portugal"
+  },
+  "mozelos, san": {
+    "lat": -23.5022434,
+    "lon": -46.6054927,
+    "display_name": "Rua Mozelos, Vila Isolina Mazzei, Vila Guilherme, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 02074-000, Brasil"
+  },
+  "mozelos, santa m": {
+    "lat": 41.0018637,
+    "lon": -8.5458371,
+    "display_name": "Rua Santa Margarida, Mozelos, Santa Maria da Feira, Aveiro, 4505-006, Portugal"
+  },
+  "mozelos, santa": {
+    "lat": 40.9977498,
+    "lon": -8.5607476,
+    "display_name": "Mozelos, Santa Maria da Feira, Aveiro, Portugal"
+  },
+  "mozelos, santa ma": {
+    "lat": 41.0018637,
+    "lon": -8.5458371,
+    "display_name": "Rua Santa Margarida, Mozelos, Santa Maria da Feira, Aveiro, 4505-006, Portugal"
+  },
+  "sant": {
+    "lat": 18.9908235,
+    "lon": -71.9943985,
+    "display_name": "Département du Centre, Ayiti"
+  },
+  "mozelos, santa maria": {
+    "lat": 41.0053223,
+    "lon": -8.5493902,
+    "display_name": "Santa Maria, 360, Rua do Alecrim, Mozelos, Santa Maria da Feira, Aveiro, 4535-263, Portugal"
+  },
+  "mozelos, santa maria d": {
+    "lat": 40.9977498,
+    "lon": -8.5607476,
+    "display_name": "Mozelos, Santa Maria da Feira, Aveiro, Portugal"
+  },
+  "santa mar": {
+    "lat": 40.6720167,
+    "lon": 39.799161,
+    "display_name": "Dumanlı, Gümüşhane Merkez, Gümüşhane, Karadeniz Bölgesi, Türkiye"
+  },
+  "santa mari": {
+    "lat": -7.1944778,
+    "lon": -41.7314668,
+    "display_name": "Mari, Santa Cruz do Piauí, Região Geográfica Imediata de Picos, Região Geográfica Intermediária de Picos, Piauí, Região Nordeste, 64545-000, Brasil"
+  },
+  "rua augusta, sé, lisboa": {
+    "lat": 38.7083584,
+    "lon": -9.1367813,
+    "display_name": "Rua Augusta, São Nicolau, Santa Maria Maior, Madalena, Lisboa, 1149-019, Portugal",
+    "level": "precise"
+  },
+  "sé, lisboa": {
+    "lat": 38.7090156,
+    "lon": -9.1313748,
+    "display_name": "Sé, Santa Maria Maior, Madalena, Lisboa, Portugal",
+    "level": "precise"
+  },
+  "admin:freguesia não existe": {
+    "lat": 38.738721,
+    "lon": -9.1030951,
+    "display_name": "Aquele lugar que não existe, 89, Rua do Açúcar, Poço do Bispo, Marvila, Lisboa, 1950-049, Portugal"
+  },
+  "al": {
+    "lat": 41.000028,
+    "lon": 19.9999619,
+    "display_name": "Shqipëria",
+    "level": "generic"
+  },
+  "al, portugal": {
+    "lat": 38.7371326,
+    "lon": -9.1321426,
+    "display_name": "Alameda, Avenida Almirante Reis, Areeiro, Lisboa, 1000-055, Portugal",
+    "level": "precise"
+  },
+  "ala": {
+    "lat": 33.2588817,
+    "lon": -86.8295337,
+    "display_name": "Alabama, United States",
+    "level": "generic"
+  },
+  "ala, portugal": {
+    "lat": 41.5982744,
+    "lon": -7.0204573,
+    "display_name": "Ala e Vilarinho do Monte, Macedo de Cavaleiros, Bragança, Portugal",
+    "level": "precise"
+  },
+  "reverse:41.5502,-8.4218": {
+    "lat": 41.5502,
+    "lon": -8.4218,
+    "display_name": "C&A, Avenida da Liberdade, São João do Souto, Braga (São José de São Lázaro e São João do Souto), Braga, 4710-251, Portugal",
+    "freguesia": "São João do Souto",
+    "concelho": "Braga",
+    "raw": {
+      "place_id": 265763678,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1625961242,
+      "lat": "41.5501031",
+      "lon": "-8.4216678",
+      "class": "shop",
+      "type": "clothes",
+      "place_rank": 30,
+      "importance": 0.00006610589761191757,
+      "addresstype": "shop",
+      "name": "C&A",
+      "display_name": "C&A, Avenida da Liberdade, São João do Souto, Braga (São José de São Lázaro e São João do Souto), Braga, 4710-251, Portugal",
+      "address": {
+        "shop": "C&A",
+        "road": "Avenida da Liberdade",
+        "suburb": "São João do Souto",
+        "city_district": "Braga (São José de São Lázaro e São João do Souto)",
+        "city": "Braga",
+        "county": "Braga",
+        "ISO3166-2-lvl6": "PT-03",
+        "postcode": "4710-251",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "41.5500531",
+        "41.5501531",
+        "-8.4217178",
+        "-8.4216178"
+      ]
+    }
+  },
+  "reverse:57.04894734801237,46.5380859375": {
+    "lat": 57.04894734801237,
+    "lon": 46.5380859375,
+    "display_name": "Центральная улица, Роженцово, Шарангский муниципальный округ, Нижегородская область, Приволжский федеральный округ, 606851, Россия",
+    "freguesia": "Роженцово",
+    "concelho": "Шарангский муниципальный округ",
+    "raw": {
+      "place_id": 183392492,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 377103096,
+      "lat": "57.0486833",
+      "lon": "46.5381844",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053370834668497714,
+      "addresstype": "road",
+      "name": "Центральная улица",
+      "display_name": "Центральная улица, Роженцово, Шарангский муниципальный округ, Нижегородская область, Приволжский федеральный округ, 606851, Россия",
+      "address": {
+        "road": "Центральная улица",
+        "village": "Роженцово",
+        "county": "Шарангский муниципальный округ",
+        "state": "Нижегородская область",
+        "ISO3166-2-lvl4": "RU-NIZ",
+        "region": "Приволжский федеральный округ",
+        "postcode": "606851",
+        "country": "Россия",
+        "country_code": "ru"
+      },
+      "boundingbox": [
+        "57.0463747",
+        "57.0512083",
+        "46.5319951",
+        "46.5456456"
+      ]
+    }
+  },
+  "reverse:40.99825366138747,-8.563452512025835": {
+    "lat": 40.99825366138747,
+    "lon": -8.563452512025835,
+    "display_name": "Alameda Alfredo Henriques, Prime, Mozelos, Santa Maria da Feira, Aveiro, 4535-159, Portugal",
+    "freguesia": "Prime",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 260971391,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 119559239,
+      "lat": "40.9982763",
+      "lon": "-8.5634464",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053389801632715304,
+      "addresstype": "road",
+      "name": "Alameda Alfredo Henriques",
+      "display_name": "Alameda Alfredo Henriques, Prime, Mozelos, Santa Maria da Feira, Aveiro, 4535-159, Portugal",
+      "address": {
+        "road": "Alameda Alfredo Henriques",
+        "hamlet": "Prime",
+        "city_district": "Mozelos",
+        "city": "Santa Maria da Feira",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "4535-159",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.9976331",
+        "40.9990805",
+        "-8.5665597",
+        "-8.5610045"
+      ]
+    }
+  },
+  "alameda alfredo henriques, prime, aveiro": {
+    "lat": 40.9984594,
+    "lon": -8.563716,
+    "display_name": "Alameda Alfredo Henriques, Prime, Mozelos, Santa Maria da Feira, Aveiro, 4535-159, Portugal",
+    "level": "precise"
+  },
+  "alameda alfredo henriques": {
+    "lat": 40.9984594,
+    "lon": -8.563716,
+    "display_name": "Alameda Alfredo Henriques, Prime, Mozelos, Santa Maria da Feira, Aveiro, 4535-159, Portugal",
+    "level": "precise"
+  },
+  "rua da igreja": {
+    "lat": -30.0333555,
+    "lon": -51.2313387,
+    "display_name": "Rua Duque de Caxias, Centro Histórico, Porto Alegre, Região Geográfica Imediata de Porto Alegre, Região Metropolitana de Porto Alegre, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, 90010-300, Brasil",
+    "level": "precise"
+  },
+  "rua d": {
+    "lat": -22.8626616,
+    "lon": -43.4900296,
+    "display_name": "Rua D, Rua Congo, 147, Bangu, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21852-582, Brasil",
+    "level": "precise"
+  },
+  "rua de": {
+    "lat": -9.6461198,
+    "lon": -35.7451985,
+    "display_name": "Rua DE, Bom Parto, Maceió, Região Geográfica Imediata de Maceió, Região Geográfica Intermediária de Maceió, Alagoas, Região Nordeste, 57017-229, Brasil",
+    "level": "precise"
+  },
+  "rua de p": {
+    "lat": -9.6461198,
+    "lon": -35.7451985,
+    "display_name": "Rua DE, Bom Parto, Maceió, Região Geográfica Imediata de Maceió, Região Geográfica Intermediária de Maceió, Alagoas, Região Nordeste, 57017-229, Brasil",
+    "level": "precise"
+  },
+  "reverse:40.98557600992018,-8.615476638078691": {
+    "lat": 40.98557600992018,
+    "lon": -8.615476638078691,
+    "display_name": "Rua do Calvário, Silvalde, Espinho, Aveiro, 4500-486, Portugal",
+    "freguesia": "",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 410418444,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 110165419,
+      "lat": "40.9856201",
+      "lon": "-8.6154767",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05338967650873575,
+      "addresstype": "road",
+      "name": "Rua do Calvário",
+      "display_name": "Rua do Calvário, Silvalde, Espinho, Aveiro, 4500-486, Portugal",
+      "address": {
+        "road": "Rua do Calvário",
+        "town": "Silvalde",
+        "city": "Espinho",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "4500-486",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.9856044",
+        "40.9874833",
+        "-8.6238481",
+        "-8.6132914"
+      ]
+    }
+  },
+  "reverse:40.987318300228004,-8.602750897407534": {
+    "lat": 40.987318300228004,
+    "lon": -8.602750897407534,
+    "display_name": "Rua Ribeira das Barredas, São Paio de Oleiros, Santa Maria da Feira, Aveiro, 4535-441, Portugal",
+    "freguesia": "",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 265812430,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 119446814,
+      "lat": "40.9874441",
+      "lon": "-8.6029293",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053389801632715304,
+      "addresstype": "road",
+      "name": "Rua Ribeira das Barredas",
+      "display_name": "Rua Ribeira das Barredas, São Paio de Oleiros, Santa Maria da Feira, Aveiro, 4535-441, Portugal",
+      "address": {
+        "road": "Rua Ribeira das Barredas",
+        "town": "São Paio de Oleiros",
+        "city": "Santa Maria da Feira",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "4535-441",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.9872998",
+        "40.9883572",
+        "-8.6030311",
+        "-8.6019978"
+      ]
+    }
+  },
+  "reverse:40.997755497289745,-8.559050336480142": {
+    "lat": 40.997755497289745,
+    "lon": -8.559050336480142,
+    "display_name": "Rua do Rio, Prime, Mozelos, Santa Maria da Feira, Aveiro, 4535-205, Portugal",
+    "freguesia": "Prime",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 264855394,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 119566481,
+      "lat": "40.9977625",
+      "lon": "-8.5590514",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053389801632715304,
+      "addresstype": "road",
+      "name": "Rua do Rio",
+      "display_name": "Rua do Rio, Prime, Mozelos, Santa Maria da Feira, Aveiro, 4535-205, Portugal",
+      "address": {
+        "road": "Rua do Rio",
+        "hamlet": "Prime",
+        "city_district": "Mozelos",
+        "city": "Santa Maria da Feira",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "4535-205",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.9976262",
+        "40.9978621",
+        "-8.5598658",
+        "-8.5583701"
+      ]
+    }
+  },
+  "reverse:40.994315217083425,-8.569577336311342": {
+    "lat": 40.994315217083425,
+    "lon": -8.569577336311342,
+    "display_name": "Rua do Pavilhão, Prime, Mozelos, Santa Maria da Feira, Aveiro, 4535-000, Portugal",
+    "freguesia": "Prime",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 265146712,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 370495130,
+      "lat": "40.9942843",
+      "lon": "-8.5695588",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053389801632715304,
+      "addresstype": "road",
+      "name": "Rua do Pavilhão",
+      "display_name": "Rua do Pavilhão, Prime, Mozelos, Santa Maria da Feira, Aveiro, 4535-000, Portugal",
+      "address": {
+        "road": "Rua do Pavilhão",
+        "hamlet": "Prime",
+        "city_district": "Mozelos",
+        "city": "Santa Maria da Feira",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "4535-000",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.9928206",
+        "40.9945944",
+        "-8.5696331",
+        "-8.5681053"
+      ]
+    }
+  },
+  "reverse:40.99543959131662,-8.56811620295048": {
+    "lat": 40.99543959131662,
+    "lon": -8.56811620295048,
+    "display_name": "369, Rua do Cedro, Prime, Mozelos, Santa Maria da Feira, Aveiro, 4535-000, Portugal",
+    "freguesia": "Prime",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 403829867,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12737003284,
+      "lat": "40.9955332",
+      "lon": "-8.5682898",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 0.0000564682993819641,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "369, Rua do Cedro, Prime, Mozelos, Santa Maria da Feira, Aveiro, 4535-000, Portugal",
+      "address": {
+        "house_number": "369",
+        "road": "Rua do Cedro",
+        "hamlet": "Prime",
+        "city_district": "Mozelos",
+        "city": "Santa Maria da Feira",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "4535-000",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.9954832",
+        "40.9955832",
+        "-8.5683398",
+        "-8.5682398"
+      ]
+    }
+  },
+  "praça central, porto": {
+    "lat": -29.8896698,
+    "lon": -50.2722705,
+    "display_name": "Praça Central, Centro, Osório, Região Geográfica Imediata de Tramandaí - Osório, Aglomeração Urbana do Litoral Norte, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+    "level": "precise"
+  },
+  "reverse:41.097243269216804,-8.594766631722452": {
+    "lat": 41.097243269216804,
+    "lon": -8.594766631722452,
+    "display_name": "Rua da Serpente, Vilar de Andorinho, Vila Nova de Gaia, Porto, 4430-576, Portugal",
+    "freguesia": "Vilar de Andorinho",
+    "concelho": "Porto",
+    "raw": {
+      "place_id": 264051092,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 118005639,
+      "lat": "41.0972772",
+      "lon": "-8.5947745",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05339322117952236,
+      "addresstype": "road",
+      "name": "Rua da Serpente",
+      "display_name": "Rua da Serpente, Vilar de Andorinho, Vila Nova de Gaia, Porto, 4430-576, Portugal",
+      "address": {
+        "road": "Rua da Serpente",
+        "suburb": "Vilar de Andorinho",
+        "city": "Vila Nova de Gaia",
+        "county": "Porto",
+        "ISO3166-2-lvl6": "PT-13",
+        "postcode": "4430-576",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "41.0970818",
+        "41.0974854",
+        "-8.5956170",
+        "-8.5936234"
+      ]
+    }
+  },
+  "praça central": {
+    "lat": -27.1150097,
+    "lon": -52.7059658,
+    "display_name": "Praça Central, Fronteira Sul, Chapecó, Região Geográfica Imediata de Chapecó, Região Geográfica Intermediária de Chapecó, Santa Catarina, Região Sul, Brasil",
+    "level": "precise"
+  },
+  "reverse:38.72169128469069,-9.169335365295412": {
+    "lat": 38.72169128469069,
+    "lon": -9.169335365295412,
+    "display_name": "Rua dos Sete Moinhos, Santo Condestável, Santa Isabel, Campo de Ourique, Lisboa, 1070, Portugal",
+    "freguesia": "Santa Isabel",
+    "concelho": "Lisboa",
+    "raw": {
+      "place_id": 274599638,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 141145260,
+      "lat": "38.7219939",
+      "lon": "-9.1694485",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05341483100633246,
+      "addresstype": "road",
+      "name": "Rua dos Sete Moinhos",
+      "display_name": "Rua dos Sete Moinhos, Santo Condestável, Santa Isabel, Campo de Ourique, Lisboa, 1070, Portugal",
+      "address": {
+        "road": "Rua dos Sete Moinhos",
+        "neighbourhood": "Santo Condestável",
+        "suburb": "Santa Isabel",
+        "village": "Campo de Ourique",
+        "city": "Lisboa",
+        "county": "Lisboa",
+        "ISO3166-2-lvl6": "PT-11",
+        "postcode": "1070",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "38.7212855",
+        "38.7229670",
+        "-9.1717773",
+        "-9.1666103"
+      ]
+    }
+  },
+  "reverse:-29.97377042188053,-50.49043357372285": {
+    "lat": -29.97377042188053,
+    "lon": -50.49043357372285,
+    "display_name": "Chicolomã, Santo Antônio da Patrulha, Região Geográfica Imediata de Porto Alegre, Região Metropolitana de Porto Alegre, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+    "freguesia": "",
+    "concelho": "Região Metropolitana de Porto Alegre",
+    "raw": {
+      "place_id": 7103499,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 7419348,
+      "lat": "-29.9666754",
+      "lon": "-50.5541738",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.16005836346990157,
+      "addresstype": "city_district",
+      "name": "Chicolomã",
+      "display_name": "Chicolomã, Santo Antônio da Patrulha, Região Geográfica Imediata de Porto Alegre, Região Metropolitana de Porto Alegre, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+      "address": {
+        "city_district": "Chicolomã",
+        "town": "Santo Antônio da Patrulha",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "county": "Região Metropolitana de Porto Alegre",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "state": "Rio Grande do Sul",
+        "ISO3166-2-lvl4": "BR-RS",
+        "region": "Região Sul",
+        "country": "Brasil",
+        "country_code": "br"
+      },
+      "boundingbox": [
+        "-30.0529368",
+        "-29.8801973",
+        "-50.7242756",
+        "-50.3900000"
+      ]
+    }
+  },
+  "reverse:40.640184464090034,-8.602311015129091": {
+    "lat": 40.640184464090034,
+    "lon": -8.602311015129091,
+    "display_name": "Rua do Cabeço Serrano, Eixo e Eirol, Aveiro, 3800-732, Portugal",
+    "freguesia": "",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 264516490,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 159253816,
+      "lat": "40.6396925",
+      "lon": "-8.6024226",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.0533948844129091,
+      "addresstype": "road",
+      "name": "Rua do Cabeço Serrano",
+      "display_name": "Rua do Cabeço Serrano, Eixo e Eirol, Aveiro, 3800-732, Portugal",
+      "address": {
+        "road": "Rua do Cabeço Serrano",
+        "city_district": "Eixo e Eirol",
+        "city": "Aveiro",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "3800-732",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.6392302",
+        "40.6397122",
+        "-8.6034602",
+        "-8.6019280"
+      ]
+    }
+  },
+  "reverse:-29.85473733997088,-50.335251688957214": {
+    "lat": -29.85473733997088,
+    "lon": -50.335251688957214,
+    "display_name": "Borússia, Osório, Região Geográfica Imediata de Tramandaí - Osório, Aglomeração Urbana do Litoral Norte, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+    "freguesia": "",
+    "concelho": "Aglomeração Urbana do Litoral Norte",
+    "raw": {
+      "place_id": 7092880,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 937030416,
+      "lat": "-29.8552362",
+      "lon": "-50.3357914",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.053391942473487414,
+      "addresstype": "road",
+      "name": "",
+      "display_name": "Borússia, Osório, Região Geográfica Imediata de Tramandaí - Osório, Aglomeração Urbana do Litoral Norte, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+      "address": {
+        "city_district": "Borússia",
+        "town": "Osório",
+        "municipality": "Região Geográfica Imediata de Tramandaí - Osório",
+        "county": "Aglomeração Urbana do Litoral Norte",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "state": "Rio Grande do Sul",
+        "ISO3166-2-lvl4": "BR-RS",
+        "region": "Região Sul",
+        "country": "Brasil",
+        "country_code": "br"
+      },
+      "boundingbox": [
+        "-29.8574800",
+        "-29.8492728",
+        "-50.3437449",
+        "-50.3347997"
+      ]
+    }
+  },
+  "reverse:39.796974964289205,-8.715938776731493": {
+    "lat": 39.796974964289205,
+    "lon": -8.715938776731493,
+    "display_name": "Rua de Santo António, Vale do Grou, Colmeias e Memória, Leiria, 2420-192, Portugal",
+    "freguesia": "Vale do Grou",
+    "concelho": "Leiria",
+    "raw": {
+      "place_id": 274555968,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 331267579,
+      "lat": "39.7975044",
+      "lon": "-8.7158894",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05339625314717323,
+      "addresstype": "road",
+      "name": "Rua de Santo António",
+      "display_name": "Rua de Santo António, Vale do Grou, Colmeias e Memória, Leiria, 2420-192, Portugal",
+      "address": {
+        "road": "Rua de Santo António",
+        "hamlet": "Vale do Grou",
+        "city_district": "Colmeias e Memória",
+        "city": "Leiria",
+        "county": "Leiria",
+        "ISO3166-2-lvl6": "PT-10",
+        "postcode": "2420-192",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "39.7974584",
+        "39.7984146",
+        "-8.7161582",
+        "-8.7142680"
+      ]
+    }
+  },
+  "reverse:39.856827140714266,-8.860477656126024": {
+    "lat": 39.856827140714266,
+    "lon": -8.860477656126024,
+    "display_name": "Rua do Campo, Monte Real e Carvide, Leiria, 2425-039, Portugal",
+    "freguesia": "",
+    "concelho": "Leiria",
+    "raw": {
+      "place_id": 272624518,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 385933414,
+      "lat": "39.8580089",
+      "lon": "-8.8600290",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05339625314717323,
+      "addresstype": "road",
+      "name": "Rua do Campo",
+      "display_name": "Rua do Campo, Monte Real e Carvide, Leiria, 2425-039, Portugal",
+      "address": {
+        "road": "Rua do Campo",
+        "city_district": "Monte Real e Carvide",
+        "city": "Leiria",
+        "county": "Leiria",
+        "ISO3166-2-lvl6": "PT-10",
+        "postcode": "2425-039",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "39.8526693",
+        "39.8596339",
+        "-8.8642481",
+        "-8.8539304"
+      ]
+    }
+  },
+  "reverse:39.86008825095017,-8.866568617522718": {
+    "lat": 39.86008825095017,
+    "lon": -8.866568617522718,
+    "display_name": "Rua do Campo, Monte Real e Carvide, Leiria, 2425-044, Portugal",
+    "freguesia": "",
+    "concelho": "Leiria",
+    "raw": {
+      "place_id": 272998025,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 441649102,
+      "lat": "39.8604506",
+      "lon": "-8.8664302",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05339625314717323,
+      "addresstype": "road",
+      "name": "Rua do Campo",
+      "display_name": "Rua do Campo, Monte Real e Carvide, Leiria, 2425-044, Portugal",
+      "address": {
+        "road": "Rua do Campo",
+        "city_district": "Monte Real e Carvide",
+        "city": "Leiria",
+        "county": "Leiria",
+        "ISO3166-2-lvl6": "PT-10",
+        "postcode": "2425-044",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "39.8596547",
+        "39.8624480",
+        "-8.8717371",
+        "-8.8643040"
+      ]
+    }
+  },
+  "reverse:40.14746541156983,-8.850604109466078": {
+    "lat": 40.14746541156983,
+    "lon": -8.850604109466078,
+    "display_name": "Ciclovia da Estação, Buarcos e São Julião, Figueira da Foz, Coimbra, 3084-501, Portugal",
+    "freguesia": "",
+    "concelho": "Coimbra",
+    "raw": {
+      "place_id": 263302397,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 265249265,
+      "lat": "40.1478764",
+      "lon": "-8.8499497",
+      "class": "amenity",
+      "type": "parking",
+      "place_rank": 30,
+      "importance": 0.0000580720225833069,
+      "addresstype": "amenity",
+      "name": "",
+      "display_name": "Ciclovia da Estação, Buarcos e São Julião, Figueira da Foz, Coimbra, 3084-501, Portugal",
+      "address": {
+        "road": "Ciclovia da Estação",
+        "city_district": "Buarcos e São Julião",
+        "city": "Figueira da Foz",
+        "county": "Coimbra",
+        "ISO3166-2-lvl6": "PT-06",
+        "postcode": "3084-501",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.1478266",
+        "40.1479246",
+        "-8.8514041",
+        "-8.8485329"
+      ]
+    }
+  },
+  "reverse:40.14798063031014,-8.850882179103793": {
+    "lat": 40.14798063031014,
+    "lon": -8.850882179103793,
+    "display_name": "Ciclovia da Estação, Buarcos e São Julião, Figueira da Foz, Coimbra, 3084-501, Portugal",
+    "freguesia": "",
+    "concelho": "Coimbra",
+    "raw": {
+      "place_id": 264281036,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 170498918,
+      "lat": "40.1479390",
+      "lon": "-8.8508825",
+      "class": "highway",
+      "type": "cycleway",
+      "place_rank": 27,
+      "importance": 0.040058072022583345,
+      "addresstype": "road",
+      "name": "Ciclovia da Estação",
+      "display_name": "Ciclovia da Estação, Buarcos e São Julião, Figueira da Foz, Coimbra, 3084-501, Portugal",
+      "address": {
+        "road": "Ciclovia da Estação",
+        "city_district": "Buarcos e São Julião",
+        "city": "Figueira da Foz",
+        "county": "Coimbra",
+        "ISO3166-2-lvl6": "PT-06",
+        "postcode": "3084-501",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.1479116",
+        "40.1480271",
+        "-8.8561532",
+        "-8.8457101"
+      ]
+    }
+  },
+  "reverse:40.38073126334044,-8.48150968551636": {
+    "lat": 40.38073126334044,
+    "lon": -8.48150968551636,
+    "display_name": "Rua Alfora, Mealhada, Ventosa do Bairro e Antes, Mealhada, Aveiro, 3050-027, Portugal",
+    "freguesia": "",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 264949334,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 246694938,
+      "lat": "40.3799364",
+      "lon": "-8.4812069",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05338296253910121,
+      "addresstype": "road",
+      "name": "Rua Alfora",
+      "display_name": "Rua Alfora, Mealhada, Ventosa do Bairro e Antes, Mealhada, Aveiro, 3050-027, Portugal",
+      "address": {
+        "road": "Rua Alfora",
+        "city_district": "Mealhada, Ventosa do Bairro e Antes",
+        "city": "Mealhada",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "3050-027",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.3794716",
+        "40.3822939",
+        "-8.4820194",
+        "-8.4785337"
+      ]
+    }
+  },
+  "reverse:41.009538752387385,-8.586910022422673": {
+    "lat": 41.009538752387385,
+    "lon": -8.586910022422673,
+    "display_name": "Rua da Cincoenta, Nogueira da Regedoura, Santa Maria da Feira, Aveiro, 4500-720, Portugal",
+    "freguesia": "",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 263473954,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 371520328,
+      "lat": "41.0096471",
+      "lon": "-8.5867731",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053389801632715304,
+      "addresstype": "road",
+      "name": "Rua da Cincoenta",
+      "display_name": "Rua da Cincoenta, Nogueira da Regedoura, Santa Maria da Feira, Aveiro, 4500-720, Portugal",
+      "address": {
+        "road": "Rua da Cincoenta",
+        "town": "Nogueira da Regedoura",
+        "city": "Santa Maria da Feira",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "4500-720",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "41.0095461",
+        "41.0108990",
+        "-8.5877633",
+        "-8.5866932"
+      ]
+    }
+  },
+  "reverse:39.23294430021855,-8.705184585414829": {
+    "lat": 39.23294430021855,
+    "lon": -8.705184585414829,
+    "display_name": "São Nicolau, Cidade de Santarém, Santarém, 2005-170, Portugal",
+    "freguesia": "São Nicolau",
+    "concelho": "Santarém",
+    "raw": {
+      "place_id": 274361245,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 145176580,
+      "lat": "39.2329344",
+      "lon": "-8.7052165",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05339359807736321,
+      "addresstype": "road",
+      "name": "",
+      "display_name": "São Nicolau, Cidade de Santarém, Santarém, 2005-170, Portugal",
+      "address": {
+        "suburb": "São Nicolau",
+        "city_district": "Cidade de Santarém",
+        "city": "Santarém",
+        "county": "Santarém",
+        "ISO3166-2-lvl6": "PT-14",
+        "postcode": "2005-170",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "39.2321516",
+        "39.2359795",
+        "-8.7052437",
+        "-8.7028497"
+      ]
+    }
+  },
+  "reverse:40.19095765759796,-8.426642669364812": {
+    "lat": 40.19095765759796,
+    "lon": -8.426642669364812,
+    "display_name": "Rua das Lages de Baixo, Quinta das Canas, Lages, Santa Clara e Castelo Viegas, Coimbra, 3040-194, Portugal",
+    "freguesia": "Lages",
+    "concelho": "Coimbra",
+    "raw": {
+      "place_id": 268175350,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 57922614,
+      "lat": "40.1909238",
+      "lon": "-8.4266680",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340086900129698,
+      "addresstype": "road",
+      "name": "Rua das Lages de Baixo",
+      "display_name": "Rua das Lages de Baixo, Quinta das Canas, Lages, Santa Clara e Castelo Viegas, Coimbra, 3040-194, Portugal",
+      "address": {
+        "road": "Rua das Lages de Baixo",
+        "neighbourhood": "Quinta das Canas",
+        "suburb": "Lages",
+        "city_district": "Santa Clara e Castelo Viegas",
+        "city": "Coimbra",
+        "county": "Coimbra",
+        "ISO3166-2-lvl6": "PT-06",
+        "postcode": "3040-194",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.1885816",
+        "40.1916632",
+        "-8.4288199",
+        "-8.4250998"
+      ]
+    }
+  },
+  "rua das lages de baixo, lages, coimbra": {
+    "lat": 40.1906657,
+    "lon": -8.4263106,
+    "display_name": "Rua das Lages de Baixo, Quinta das Canas, Lages, Santa Clara e Castelo Viegas, Coimbra, 3040-194, Portugal",
+    "level": "precise"
+  },
+  "reverse:40.95778306924939,-8.573407593648882": {
+    "lat": 40.95778306924939,
+    "lon": -8.573407593648882,
+    "display_name": "Travessa Nº 1, Rio Meão, Santa Maria da Feira, Aveiro, 4520-477, Portugal",
+    "freguesia": "",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 265237257,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 120937320,
+      "lat": "40.9577991",
+      "lon": "-8.5734059",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053389801632715304,
+      "addresstype": "road",
+      "name": "Travessa Nº 1",
+      "display_name": "Travessa Nº 1, Rio Meão, Santa Maria da Feira, Aveiro, 4520-477, Portugal",
+      "address": {
+        "road": "Travessa Nº 1",
+        "town": "Rio Meão",
+        "city": "Santa Maria da Feira",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "4520-477",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.9577131",
+        "40.9578144",
+        "-8.5735222",
+        "-8.5725744"
+      ]
+    }
+  },
+  "reverse:40.95782426140388,-8.581867343746127": {
+    "lat": 40.95782426140388,
+    "lon": -8.581867343746127,
+    "display_name": "Avenida de Santiago, Rio Meão, Santa Maria da Feira, Aveiro, 4524-907, Portugal",
+    "freguesia": "",
+    "concelho": "Aveiro",
+    "raw": {
+      "place_id": 265376455,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1226758336,
+      "lat": "40.9577856",
+      "lon": "-8.5818386",
+      "class": "historic",
+      "type": "granary",
+      "place_rank": 30,
+      "importance": 0.0000564682993819641,
+      "addresstype": "historic",
+      "name": "",
+      "display_name": "Avenida de Santiago, Rio Meão, Santa Maria da Feira, Aveiro, 4524-907, Portugal",
+      "address": {
+        "road": "Avenida de Santiago",
+        "town": "Rio Meão",
+        "city": "Santa Maria da Feira",
+        "county": "Aveiro",
+        "ISO3166-2-lvl6": "PT-01",
+        "postcode": "4524-907",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.9577733",
+        "40.9577979",
+        "-8.5818649",
+        "-8.5818124"
+      ]
+    }
+  },
+  "avenida de santiago, aveiro": {
+    "lat": 40.9578247,
+    "lon": -8.5826884,
+    "display_name": "Avenida de Santiago, Rio Meão, Santa Maria da Feira, Aveiro, 4524-907, Portugal",
+    "level": "precise"
+  },
+  "reverse:-29.6389263076323,-50.17045676708222": {
+    "lat": -29.6389263076323,
+    "lon": -50.17045676708222,
+    "display_name": "Maquiné, Região Geográfica Imediata de Tramandaí - Osório, Aglomeração Urbana do Litoral Norte, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+    "freguesia": "Maquiné",
+    "concelho": "Aglomeração Urbana do Litoral Norte",
+    "raw": {
+      "place_id": 7086888,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 7486600,
+      "lat": "-29.6775160",
+      "lon": "-50.1476218",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 18,
+      "importance": 0.1600565110246433,
+      "addresstype": "city_district",
+      "name": "Maquiné",
+      "display_name": "Maquiné, Região Geográfica Imediata de Tramandaí - Osório, Aglomeração Urbana do Litoral Norte, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+      "address": {
+        "city_district": "Maquiné",
+        "village": "Maquiné",
+        "municipality": "Região Geográfica Imediata de Tramandaí - Osório",
+        "county": "Aglomeração Urbana do Litoral Norte",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "state": "Rio Grande do Sul",
+        "ISO3166-2-lvl4": "BR-RS",
+        "region": "Região Sul",
+        "country": "Brasil",
+        "country_code": "br"
+      },
+      "boundingbox": [
+        "-29.7467638",
+        "-29.6090000",
+        "-50.3147418",
+        "-50.0215693"
+      ]
+    }
+  },
+  "reverse:-29.924984068555734,-50.20650565624238": {
+    "lat": -29.924984068555734,
+    "lon": -50.20650565624238,
+    "display_name": "Osório, Região Geográfica Imediata de Tramandaí - Osório, Aglomeração Urbana do Litoral Norte, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+    "freguesia": "",
+    "concelho": "Aglomeração Urbana do Litoral Norte",
+    "raw": {
+      "place_id": 7094264,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 648872862,
+      "lat": "-29.9257195",
+      "lon": "-50.2072616",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.053391942473487414,
+      "addresstype": "road",
+      "name": "",
+      "display_name": "Osório, Região Geográfica Imediata de Tramandaí - Osório, Aglomeração Urbana do Litoral Norte, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+      "address": {
+        "city_district": "Osório",
+        "town": "Osório",
+        "municipality": "Região Geográfica Imediata de Tramandaí - Osório",
+        "county": "Aglomeração Urbana do Litoral Norte",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "state": "Rio Grande do Sul",
+        "ISO3166-2-lvl4": "BR-RS",
+        "region": "Região Sul",
+        "country": "Brasil",
+        "country_code": "br"
+      },
+      "boundingbox": [
+        "-29.9292581",
+        "-29.9207691",
+        "-50.2125159",
+        "-50.2044593"
+      ]
+    }
+  },
+  "reverse:40.13562240827555,-8.700231760740282": {
+    "lat": 40.13562240827555,
+    "lon": -8.700231760740282,
+    "display_name": "Rua de Santa Ana, Caixeira, Abrunheira, Verride e Vila Nova da Barca, Montemor-o-Velho, Coimbra, 3090-902, Portugal",
+    "freguesia": "Caixeira",
+    "concelho": "Coimbra",
+    "raw": {
+      "place_id": 263786619,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 119103110,
+      "lat": "40.1365417",
+      "lon": "-8.7010536",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05339102082856485,
+      "addresstype": "road",
+      "name": "Rua de Santa Ana",
+      "display_name": "Rua de Santa Ana, Caixeira, Abrunheira, Verride e Vila Nova da Barca, Montemor-o-Velho, Coimbra, 3090-902, Portugal",
+      "address": {
+        "road": "Rua de Santa Ana",
+        "hamlet": "Caixeira",
+        "city_district": "Abrunheira, Verride e Vila Nova da Barca",
+        "town": "Montemor-o-Velho",
+        "county": "Coimbra",
+        "ISO3166-2-lvl6": "PT-06",
+        "postcode": "3090-902",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "40.1351940",
+        "40.1392832",
+        "-8.7045544",
+        "-8.6950784"
+      ]
+    }
+  },
+  "reverse:-29.829722326187557,-50.27242362499237": {
+    "lat": -29.829722326187557,
+    "lon": -50.27242362499237,
+    "display_name": "Caraá, Região Geográfica Imediata de Porto Alegre, Aglomeração Urbana do Litoral Norte, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+    "freguesia": "Caraá",
+    "concelho": "Região Geográfica Imediata de Porto Alegre",
+    "raw": {
+      "place_id": 7109945,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 945108720,
+      "lat": "-29.8281971",
+      "lon": "-50.2754813",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05338975585564962,
+      "addresstype": "road",
+      "name": "",
+      "display_name": "Caraá, Região Geográfica Imediata de Porto Alegre, Aglomeração Urbana do Litoral Norte, Região Geográfica Intermediária de Porto Alegre, Rio Grande do Sul, Região Sul, Brasil",
+      "address": {
+        "city_district": "Caraá",
+        "village": "Caraá",
+        "municipality": "Região Geográfica Imediata de Porto Alegre",
+        "county": "Aglomeração Urbana do Litoral Norte",
+        "state_district": "Região Geográfica Intermediária de Porto Alegre",
+        "state": "Rio Grande do Sul",
+        "ISO3166-2-lvl4": "BR-RS",
+        "region": "Região Sul",
+        "country": "Brasil",
+        "country_code": "br"
+      },
+      "boundingbox": [
+        "-29.8282459",
+        "-29.8279516",
+        "-50.2763463",
+        "-50.2754813"
+      ]
+    }
+  },
+  "reverse:38.86370408935205,-8.762969970703127": {
+    "lat": 38.86370408935205,
+    "lon": -8.762969970703127,
+    "display_name": "Samora Correia, Benavente, Santarém, Portugal",
+    "freguesia": "",
+    "concelho": "Samora Correia",
+    "raw": {
+      "place_id": 274671611,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 6458207,
+      "lat": "38.9348747",
+      "lon": "-8.8689911",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 16,
+      "importance": 0.3352614827140233,
+      "addresstype": "city",
+      "name": "Samora Correia",
+      "display_name": "Samora Correia, Benavente, Santarém, Portugal",
+      "address": {
+        "city": "Samora Correia",
+        "town": "Benavente",
+        "county": "Santarém",
+        "ISO3166-2-lvl6": "PT-14",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "38.7314904",
+        "38.9506343",
+        "-8.9684661",
+        "-8.7039983"
+      ]
+    }
+  },
+  "reverse:38.86926548704469,-8.763785362243654": {
+    "lat": 38.86926548704469,
+    "lon": -8.763785362243654,
+    "display_name": "Santo Estêvão, Benavente, Santarém, Portugal",
+    "freguesia": "Santo Estêvão",
+    "concelho": "Benavente",
+    "raw": {
+      "place_id": 272803099,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 6458208,
+      "lat": "38.8636210",
+      "lon": "-8.7456467",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 16,
+      "importance": 0.2809728758532276,
+      "addresstype": "village",
+      "name": "Santo Estêvão",
+      "display_name": "Santo Estêvão, Benavente, Santarém, Portugal",
+      "address": {
+        "village": "Santo Estêvão",
+        "town": "Benavente",
+        "county": "Santarém",
+        "ISO3166-2-lvl6": "PT-14",
+        "country": "Portugal",
+        "country_code": "pt"
+      },
+      "boundingbox": [
+        "38.8216252",
+        "38.9217461",
+        "-8.7937695",
+        "-8.6591223"
+      ]
+    }
+  }
+}
